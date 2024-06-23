@@ -1,0 +1,4 @@
+baseURL = 'https://neo-teric.net/'
+languageCode = 'en-us'
+title = 'Neoteric Consultants'
+theme = 'ananke'
