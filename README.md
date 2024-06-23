@@ -23,6 +23,7 @@ draft = true
 ```
 
 ## publish
+```
 - make sure you have draft:false in your post
 
 +++
@@ -33,3 +34,16 @@ draft = false
 
 - hugo
   it generates the public folder
+- git commit
+- git push
+- github actions run and site is published.
+```
+
+## Draft, future, and expired content
+
+Hugo allows you to set draft, date, publishDate, and expiryDate in the front matter of your content. By default, Hugo will not publish content when:
+
+    The draft value is true
+    The date is in the future
+    The publishDate is in the future
+    The expiryDate is in the past
