@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Neoteric Consultants</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://neo-teric.net/posts/</link>
     <description>Recent content in Posts on Neoteric Consultants</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 23 Jun 2024 15:18:14 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://neo-teric.net/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Post</title>
-      <link>http://localhost:1313/posts/first-post/</link>
+      <link>https://neo-teric.net/posts/first-post/</link>
       <pubDate>Sun, 23 Jun 2024 15:18:14 -0700</pubDate>
-      <guid>http://localhost:1313/posts/first-post/</guid>
+      <guid>https://neo-teric.net/posts/first-post/</guid>
       <description>Introduction This is bold text</description>
     </item>
   </channel>
